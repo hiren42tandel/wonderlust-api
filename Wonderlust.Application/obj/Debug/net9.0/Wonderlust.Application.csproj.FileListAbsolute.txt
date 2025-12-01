@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\bin\Debug\net9.0\Wonderlust.Application.deps.json
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\bin\Debug\net9.0\Wonderlust.Application.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\bin\Debug\net9.0\Wonderlust.Application.pdb
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\bin\Debug\net9.0\Wonderlust.Domain.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\bin\Debug\net9.0\Wonderlust.Domain.pdb
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlu.5CA23D4A.Up2Date
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\refint\Wonderlust.Application.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\Wonderlust.Application.pdb
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Application\obj\Debug\net9.0\ref\Wonderlust.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\bin\Debug\net9.0\Wonderlust.Domain.deps.json
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\bin\Debug\net9.0\Wonderlust.Domain.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\bin\Debug\net9.0\Wonderlust.Domain.pdb
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\Wonderlust.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\Wonderlust.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\Wonderlust.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\Wonderlust.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\Wonderlust.Domain.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\refint\Wonderlust.Domain.dll
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\Wonderlust.Domain.pdb
+C:\Users\Lenovo\Downloads\htt@gmail.com\Hiren\Learning\Wonderlust\Wonderlust.Domain\obj\Debug\net9.0\ref\Wonderlust.Domain.dll

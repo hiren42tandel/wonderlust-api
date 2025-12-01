@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Wonderlust.Application/1.0.0": {
+        "dependencies": {
+          "Wonderlust.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wonderlust.Application.dll": {}
+        }
+      },
+      "Wonderlust.Domain/1.0.0": {
+        "runtime": {
+          "Wonderlust.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wonderlust.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wonderlust.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Wonderlust.Application.Tours;
+using Wonderlust.Domain.Entities;
+
+namespace Wonderlust.Api.Controllers;
+
+[ApiController]
+[Route("api/[controller]")]
+public class TourPackagesController : ControllerBase
+{
+    private readonly ITourPackageService _service;
+
+    public TourPackagesController(ITourPackageService service)
+    {
+        _service = service;
+    }
+
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<TourPackage>>> GetAll()
+    {
+        var tours = await _service.GetAllAsync();
+        return Ok(tours);
+    }
+
+    [HttpGet("{id:int}")]
+    public async Task<ActionResult<TourPackage>> GetById(int id)
+    {
+        var tour = await _service.GetByIdAsync(id);
+        if (tour is null) return NotFound();
+        return Ok(tour);
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<TourPackage>> Create([FromBody] TourPackage tour)
+    {
+        var created = await _service.CreateAsync(tour);
+        return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
+    }
+
+    [HttpPut("{id:int}")]
+    public async Task<ActionResult<TourPackage>> Update(int id, [FromBody] TourPackage tour)
+    {
+        var updated = await _service.UpdateAsync(id, tour);
+        if (updated is null) return NotFound();
+        return Ok(updated);
+    }
+
+    [HttpDelete("{id:int}")]
+    public async Task<IActionResult> Delete(int id)
+    {
+        var deleted = await _service.DeleteAsync(id);
+        if (!deleted) return NotFound();
+        return NoContent();
+    }
+}
